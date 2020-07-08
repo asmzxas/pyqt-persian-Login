@@ -2,4 +2,6 @@
 
 first experience with pyqt 
 
-    a login page 
+a login page :)
+
+test it and tell me bugs 
